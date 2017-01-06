@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         // a comment to change the file!
 
         // another comments.
+
+        // a third comment.
     }
 }
